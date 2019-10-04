@@ -1,11 +1,11 @@
 ## Welcome to Yujing's HomePage!
 
 ### EDUCATION
-Master Degree (ongoing): Peking University (Beijing, China) 09/2018-06/2020
+**Master Degree (ongoing): Peking University (Beijing, China) 09/2018-06/2020**
 * Major: Statistcs (Guanghua School of Management)
 * Overall GPA: 3.95/4.00 (first semester)
 
-Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2014-06/2018
+**Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2014-06/2018**
 
 - Major: Statistics (School of Mathematical Science)
 - Overall GPA: 3.92/4.00 (rank 1/40)
@@ -50,8 +50,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
