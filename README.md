@@ -3,7 +3,7 @@
 
 **Missing, Causal and Hign-dimensional!**
 
-**Love statistics every day!** 
+**Love statistics, but keep trying more!** 
 
 In order to facilitate the viewing, a personal resume introduction website of Gao Yujing was established!
 
