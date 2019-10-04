@@ -2,22 +2,23 @@
 
 ### Education
 Master Degree (ongoing): Peking University (Beijing, China) 09/2018-06/2020
-
-Major: Statistcs (Guanghua School of Management)
-
-Overall GPA: 3.95/4.00
+* Major: Statistcs (Guanghua School of Management)
+* Overall GPA: 3.95/4.00
 
 Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2014-06/2018
 
-Major: Statistics (School of Mathematical Science)
-
-Overall GPA: 3.92/4.00 (rank 1/40)
-
-Major GPA: 4.00/4.00 (rank 2/40)
-
-Competition Awards: Meritorious Winner in Interdisciplinary Contest in Modeling, Gold Award in International Genetically Engineered Machine Competition; National Second Prize in National Undergraduate Mathematical Modeling Contest
-
-Social activities and experiences: Voluntary support education in Fujian Province (7/2015); Investigate the current situation of college students’ innovative entrepreneurship in Shanghai (7/2015); Investigate the Long March Spirit in Ningxia province (7/2016); Volunteer in Global Culture Festival held by Beijing Normal University (10/2016)
+- Major: Statistics (School of Mathematical Science)
+- Overall GPA: 3.92/4.00 (rank 1/40)
+- Major GPA: 4.00/4.00 (rank 2/40)
+- Competition Awards: 
+   - Meritorious Winner in Interdisciplinary Contest in Modeling, Gold Award in International Genetically Engineered Machine Competition
+   - National Second Prize in National Undergraduate Mathematical Modeling Contest
+   
+- Social activities and experiences:
+   - Voluntary support education in Fujian Province (7/2015)
+   - Investigate the current situation of college students’ innovative entrepreneurship in Shanghai (7/2015)
+   - Investigate the Long March Spirit in Ningxia province (7/2016)
+   - Volunteer in Global Culture Festival held by Beijing Normal University (10/2016)
 
 ### Publications
 
