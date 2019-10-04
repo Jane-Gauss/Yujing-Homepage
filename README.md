@@ -37,18 +37,15 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 
 **Undergradute Stage**
 
-- [x] Beijing Normal University, **Advisor: Prof. Xu Guo** (12/2017 - 06/2018)
-- **Rank Test Problem with Missing Paired Data**
+- [x] **Rank Test Problem with Missing Paired Data, Advisor: Prof. Xu Guo** (12/2017 - 06/2018)
    - Based on the joint asymptotic distribution of different data combination test statistic in missing paired data, a class of optimal linear weighted test statistic and maximum test statistic were given, which was compared with the test results of existing test statistic
    - From theory and simulation, respectively, it was shown that considering the other two pairs of unpaired data combinations in the test could improve the efficiency.
    - Gave test statistics with better performance in different sample cases, and applied results to analyze multiple cases
-- [x] Beijing Normal University, **Advisor: Prof. Yingzhe Wang** (06/2016 - 07/2017)
-- **Discrete Approximation of the Diffusion Process**
+- [x] **Discrete Approximation of the Diffusion Process, Advisor: Prof. Yingzhe Wang** (06/2016 - 07/2017)
    - At present, the discrete approximation of the bounded diffusion process of the coefficient was obtained, and the discrete approximation of a class of drift coefficient unbounded diffusion processes was derived
    - Attenuated the bounded condition of the drift coefficient and constructed the transfer function
    - Applied the Skorokhod Discrete Approximation Theorem to construct a discrete Markov Chain under certain conditions
-- [x] Beijing Normal University, **Advisor: Prof. Boyu Zhang** (06/2015 - 07/2016)
-- **Research on Optimal Institutional Incentive Based on Public Goods Game**
+- [x] **Research on Optimal Institutional Incentive Based on Public Goods Game, Advisor: Prof. Boyu Zhang** (06/2015 - 07/2016)
    - Established the game model of the common supplies after joining the incentive mechanism of the institution
    - Explored the characteristics of the game of public goods in the institutional incentives combined with the reward and punishment system
    - Determined the distribution of reward penalty when the cost was constant, then studied the incentive cost setting to maximize the return under the optimal reward penalty allocation setting
@@ -76,7 +73,7 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 
 
 ### WORK EXPERIENCE
-**KPMG-FInancial Risk Department** (07/2017 - 11/2017)
+**KPMG-FInancial Risk Department (07/2017 - 11/2017)** 
 - Modeled and forecasted macroeconomic indicators using time series model
 - Based on regression analysis and related indicator screening, assisted China Construction Bank Head Office to establish a forward-looking adjustment model for credit risk (Wilson Model)
 - Assisted China Construction Bank's Singapore branch to forecast macroeconomic indicators and established a forward-looking adjustment model for credit risk (Wilson Model)
@@ -91,14 +88,16 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 - During the exchange, we met with the Consul General of the Chinese Embassy in New York, Ms. Zhang Qiyue
 
 ### ADDITIONAL INFORMATION
-- Additional Professional and Extracurricular Experiences
+- **Additional Professional and Extracurricular Experiences**
   - TA experience: Statistical Culture and Practice (Teacher: Prof. Miao (Wang Miao))  
   - Assisted in organizing book ‘Multivariate statistical analysis’ (Unpublished, Author: Prof. Shumei Zhang, Beijing Normal University, School of Statistics)
-- Interests:
+- **Interests**
   - Missing data analysis
   - Causal inference
-  - Nonparametric statistics
-- Computer and Language Skills
+  - Mediation analysis
+  - High-dimensional statistics
+  - To be continued
+- **Computer and Language Skills**
    - Proficiency in R, Tex, SAS
    - Capable of Matlab, Python, Stata
    - TOEFL: 102 (Jan., 2018)
