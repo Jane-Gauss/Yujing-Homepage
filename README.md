@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Yujing's HomePage!
 
-You can use the [editor on GitHub](https://github.com/Jane-Gauss/Yujing-Homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education
+Master Degree (ongoing): Peking University (Beijing, China) 09/2018-06/2020
+Major: Statistcs (Guanghua School of Management)
+Overall GPA: 3.95/4.00
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2014-06/2018
+Major: Statistics (School of Mathematical Science)
+Overall GPA: 3.92/4.00 (rank 1/40)
+Major GPA: 4.00/4.00 (rank 2/40)
+Competition Awards: Meritorious Winner in Interdisciplinary Contest in Modeling, Gold Award in International
+Genetically Engineered Machine Competition, National Second Prize in National Undergraduate Mathematical
+Modeling Contest
 
 ### Markdown
 
