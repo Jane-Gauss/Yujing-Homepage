@@ -1,6 +1,11 @@
 ## Welcome to Yujing's HomePage!
-Data, Statistics and Research!
-Missing, Causal,
+**Data, Statistics and Research!**
+
+**Missing, Causal and Hign-dimensional!**
+
+**Love statistics every day!**
+
+In order to facilitate the viewing, a personal resume introduction website of Gao Yujing was established!
 
 ### EDUCATION
 **Master Degree (ongoing): Peking University, Beijing, China (09/2018 - 06/2020)**
@@ -98,33 +103,3 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
    - Capable of Matlab, Python, Stata
    - TOEFL: 102 (Jan., 2018)
    - GRE: 324+3.5 (July, 2019)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jane-Gauss/Yujing-Homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
