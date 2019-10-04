@@ -7,7 +7,7 @@
 
 In order to facilitate the viewing, a personal resume introduction website of Gao Yujing was established!
 
-### EDUCATION
+### EDUCATION :woman_student:
 **Master Degree (ongoing): Peking University, Beijing, China (09/2018 - 06/2020)**
 * Major: Statistcs (Guanghua School of Management)
 * Overall GPA: 3.95/4.00 (first semester)
