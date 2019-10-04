@@ -1,9 +1,9 @@
 ## Welcome to Yujing's HomePage!
-**Data, Statistics and Research!** :whale:
+**Data, Statistics and Research!** 
 
-**Missing, Causal and Hign-dimensional!** :cactus: 
+**Missing, Causal and Hign-dimensional!**
 
-**Love statistics every day!** :sunflower:
+**Love statistics every day!** 
 
 In order to facilitate the viewing, a personal resume introduction website of Gao Yujing was established!
 
