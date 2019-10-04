@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-plugins:
- -jemoji
+gems: ['jekyll-emoji']
+emoji:
+  format: emojione-svg # default html
+  ascii: true # default false
+  shortname: true # default true
