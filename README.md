@@ -1,9 +1,9 @@
 ## Welcome to Yujing's HomePage!
 
-### Education
+### EDUCATION
 Master Degree (ongoing): Peking University (Beijing, China) 09/2018-06/2020
 * Major: Statistcs (Guanghua School of Management)
-* Overall GPA: 3.95/4.00
+* Overall GPA: 3.95/4.00 (first semester)
 
 Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2014-06/2018
 
@@ -20,11 +20,14 @@ Undergraduate Degree (finished): Beijing Normal University (Beijing, China) 09/2
    - Investigate the Long March Spirit in Ningxia province (7/2016)
    - Volunteer in Global Culture Festival held by Beijing Normal University (10/2016)
 
-### Publications
-
+### PUBLICATION
 Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
- [Letter to the Editor](https://doi.org/10.1093/biostatistics/kxy047)
-Letter to the Editor." Biostatistics (2018).
+ [Letter to the Editor.](https://doi.org/10.1093/biostatistics/kxy047)
+" Biostatistics (2018).
+
+### RESEARCH EXPERIENCE
+- [x] Beijing University (Guanghua School of Management)
+
 
 ### Markdown
 
