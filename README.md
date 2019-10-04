@@ -1,13 +1,13 @@
 ## Welcome to Yujing's HomePage!
-**Data, Statistics and Research!**
+**Data, Statistics and Research!** :whale:
 
-**Missing, Causal and Hign-dimensional!**
+**Missing, Causal and Hign-dimensional!** :cactus: 
 
-**Love statistics every day!**
+**Love statistics every day!** :sunflower:
 
 In order to facilitate the viewing, a personal resume introduction website of Gao Yujing was established!
 
-### EDUCATION :woman_student:
+### EDUCATION 
 **Master Degree (ongoing): Peking University, Beijing, China (09/2018 - 06/2020)**
 * Major: Statistcs (Guanghua School of Management)
 * Overall GPA: 3.95/4.00 (first semester)
