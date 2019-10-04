@@ -26,7 +26,26 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 " Biostatistics (2018).
 
 ### RESEARCH EXPERIENCE
-- [x] Beijing University (Guanghua School of Management)
+**Graduate Stage**
+
+**Undergradute Stage**
+
+- [x] Beijing Normal University, Advisor: Prof. Xu Guo (12/2017-06/2018)
+- Rank Test Problem with Missing Paired Data
+   - Based on the joint asymptotic distribution of different data combination test statistic in missing paired data, a class of optimal linear weighted test statistic and maximum test statistic were given, which was compared with the test results of existing test statistic
+   - From theory and simulation, respectively, it was shown that considering the other two pairs of unpaired data combinations in the test could improve the efficiency.
+   - Gave test statistics with better performance in different sample cases, and applied results to analyze multiple cases
+- [ ] Beijing Normal University, Advisor: Prof. Yingzhe Wang (06/2016-07/2017)
+- Discrete Approximation of the Diffusion Process
+   - At present, the discrete approximation of the bounded diffusion process of the coefficient was obtained, and the discrete approximation of a class of drift coefficient unbounded diffusion processes was derived
+   - Attenuated the bounded condition of the drift coefficient and constructed the transfer function
+   - Applied the Skorokhod Discrete Approximation Theorem to construct a discrete Markov Chain under certain conditions
+- [ ] Beijing Normal University, Advisor: Prof. Boyu Zhang (06/2015-07/2016)
+- Research on Optimal Institutional Incentive Based on Public Goods Game
+   - Established the game model of the common supplies after joining the incentive mechanism of the institution
+   - Explored the characteristics of the game of public goods in the institutional incentives combined with the reward and punishment system
+   - Determined the distribution of reward penalty when the cost was constant, then studied the incentive cost setting to maximize the return under the optimal reward penalty allocation setting
+   - Based on the results obtained, conducted numerical simulation and model verification
 
 
 ### Markdown
