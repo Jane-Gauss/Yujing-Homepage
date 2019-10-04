@@ -77,10 +77,10 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 - Assisted China Construction Bank's Singapore branch to forecast macroeconomic indicators and established a forward-looking adjustment model for credit risk (Wilson Model)
 
 ### EXCHANGE EXPERIENCE
-- [x] University of Washington, Seattle, USA (07/2019 - 09/2019)
+- [x] **University of Washington, Seattle, USA (07/2019 - 09/2019)**
 - Learned high-dimensional statistics and mediation analysis
 - Conducted research under the guidance of Prof ALi, Shojaie
-- [x] University of Pennsylvania, Philadelphia, USA (07/2016 – 8/2016)
+- [x] **University of Pennsylvania, Philadelphia, USA (07/2016 – 8/2016)**
 - Visited the Philadelphia City Water Treatment and Purification System and Innovation Industrial Park, learned about TEDA cooperation projects between Philadelphia and Tianjin
 - Studied and exchanged on social issues such as education in poverty-stricken areas, juvenile delinquency, and medical care for the elderly
 - During the exchange, we met with the Consul General of the Chinese Embassy in New York, Ms. Zhang Qiyue
