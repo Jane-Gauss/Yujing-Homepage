@@ -12,7 +12,7 @@ In order to facilitate the viewing, a personal resume introduction website of Ga
 * Major: Statistcs (Guanghua School of Management)
 * Overall GPA: 3.95/4.00 (first semester)
 
-**Undergraduate Degree (finished): Beijing Normal University, Beijing, China (09/2014 - 06/2018)**
+**Undergraduate Degree (completed): Beijing Normal University, Beijing, China (09/2014 - 06/2018)**
 
 - Major: Statistics (School of Mathematical Science)
 - Overall GPA: 3.92/4.00 (rank 1/40)
