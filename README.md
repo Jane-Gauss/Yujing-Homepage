@@ -41,7 +41,7 @@ Huamei Huang, Yujing Gao, Huiming Zhang, Bo Li. “Weighted Lasso Estimates for 
    - Built mediation model with unobserved confounders considering one binary treatment and one binary mediator
    - Proved the identification of three mediation effects (controlled, natural direct, natural indirect) when unobserved confounders have normal distribution
    - Now working on proving identification of mediation effects when unobserved confounders are from more general distribution family
-- [ ] **Weighted Lasso estimates for Sparse Logistic Regression, with Ph.D. candidate Huiming Zhang** (02/2019 - 09/2019)
+- [x] **Weighted Lasso estimates for Sparse Logistic Regression, with Ph.D. candidate Huiming Zhang** (02/2019 - 09/2019)
    - Derived oracle inequalities to show the non-asymptotic fluctuation of our estimator compared to the ideal unknown oracle parameter
    - Proposed two kinds of data-dependent weights based on McDiarmid’s inequality which guaranteed the establishment of KKT conditions
    - Transformed the weighted optimization problem into unweighted problem, did simulation to show our estimates’ effective comparing with former estimates, and applied to a gene data set
@@ -101,9 +101,7 @@ Huamei Huang, Yujing Gao, Huiming Zhang, Bo Li. “Weighted Lasso Estimates for 
 
 ### ADDITIONAL INFORMATION
 - **Additional Professional and Extracurricular Experiences**
-  - TA experience: Statistical Culture and Practice (Teacher: Prof. Miao (Wang Miao))
-                   Statistical Culture and Practice (Teacher: Prof. Wang Miao)  
-                   Regression Analysis in Management Research (Teacher: Prof. Chenxu Li)
+  - TA experience: Statistical Culture and Practice (Teacher: Prof. Miao (Wang Miao)); Statistical Culture and Practice (Teacher: Prof. Wang Miao); Regression Analysis in Management Research (Teacher: Prof. Chenxu Li)
 
   - Assisted in organizing book ‘Multivariate statistical analysis’ (Unpublished, Author: Prof. Shumei Zhang, Beijing Normal University, School of Statistics)
 - **Interests**
