@@ -28,8 +28,8 @@ In order to facilitate the viewing, a personal resume introduction website of Ga
    - Volunteer in Global Culture Festival held by Beijing Normal University (10/2016)
 
 ### PUBLICATION
-Xu Guo, Yujing Gao, Cuizhen Niu, Shumei Zhang, [Letter to the editor](https://doi.org/10.1093/biostatistics/kxy047), Biostatistics, Volume 20, Issue 2, April 2019, Pages 358–362, https://doi.org/10.1093/biostatistics/kxy047
-Huamei Huang, Yujing Gao, Huiming Zhang, Bo Li. “Weighted Lasso Estimates for Sparse Logistic Regressions: Non-asymptotic Properties with Measurement Error.” To appear in Acta Mathematica Scientia
+- Xu Guo, Yujing Gao, Cuizhen Niu, Shumei Zhang, [Letter to the editor](https://doi.org/10.1093/biostatistics/kxy047), Biostatistics, Volume 20, Issue 2, April 2019, Pages 358–362, https://doi.org/10.1093/biostatistics/kxy047
+- Huamei Huang, Yujing Gao, Huiming Zhang, Bo Li. “Weighted Lasso Estimates for Sparse Logistic Regressions: Non-asymptotic Properties with Measurement Error.” To appear in Acta Mathematica Scientia
 
 ### RESEARCH EXPERIENCE
 **Graduate Stage**
