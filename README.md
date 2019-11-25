@@ -1,7 +1,7 @@
 ## Welcome to Yujing's HomePage!
 **Data, Statistics and Research!** 
 
-**Missing, Causal and Hign-dimensional!**
+**Missing, Causal and High-dimensional!**
 
 **Love statistics, but keep trying more!** 
 
@@ -10,7 +10,7 @@ In order to facilitate the viewing, a personal resume introduction website of Ga
 ### EDUCATION 
 **Master Degree (ongoing): Peking University, Beijing, China (09/2018 - 06/2020)**
 * Major: Statistcs (Guanghua School of Management)
-* Overall GPA: 3.88/4.00 (first semester)
+* Overall GPA: 3.88/4.00 
 
 **Undergraduate Degree (completed): Beijing Normal University, Beijing, China (09/2014 - 06/2018)**
 
@@ -28,12 +28,23 @@ In order to facilitate the viewing, a personal resume introduction website of Ga
    - Volunteer in Global Culture Festival held by Beijing Normal University (10/2016)
 
 ### PUBLICATION
-Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
- [Letter to the Editor.](https://doi.org/10.1093/biostatistics/kxy047)
-" Biostatistics (2018).
+Xu Guo, Yujing Gao, Cuizhen Niu, Shumei Zhang, [Letter to the editor](https://doi.org/10.1093/biostatistics/kxy047), Biostatistics, Volume 20, Issue 2, April 2019, Pages 358–362, https://doi.org/10.1093/biostatistics/kxy047
+Huamei Huang, Yujing Gao, Huiming Zhang, Bo Li. “Weighted Lasso Estimates for Sparse Logistic Regressions: Non-asymptotic Properties with Measurement Error.” To appear in Acta Mathematica Scientia
 
 ### RESEARCH EXPERIENCE
 **Graduate Stage**
+
+- [ ] **Selection, Classification and Identification of High-dimensional Mediators in Mediation Model, Advisor: Prof. Ali Shojaie** (07/2019 - ongoing)
+   - Proved a new latent variable model “essential regression” can be used to select and classify mediators with identification under the structural equation model framework
+   - Now working on using sufficient dimension reduction method into more general mediation problem
+- [ ] **Mediation Analysis with Unobserved Confounders, Advisor: Prof. Wang Miao** (06/2019 - ongoing)
+   - Built mediation model with unobserved confounders considering one binary treatment and one binary mediator
+   - Proved the identification of three mediation effects (controlled, natural direct, natural indirect) when unobserved confounders have normal distribution
+   - Now working on proving identification of mediation effects when unobserved confounders are from more general distribution family
+- [ ] **Weighted Lasso estimates for Sparse Logistic Regression, with Ph.D. candidate Huiming Zhang** (02/2019 - 09/2019)
+   - Derived oracle inequalities to show the non-asymptotic fluctuation of our estimator compared to the ideal unknown oracle parameter
+   - Proposed two kinds of data-dependent weights based on McDiarmid’s inequality which guaranteed the establishment of KKT conditions
+   - Transformed the weighted optimization problem into unweighted problem, did simulation to show our estimates’ effective comparing with former estimates, and applied to a gene data set
 
 **Undergradute Stage**
 
@@ -52,6 +63,7 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
    - Based on the results obtained, conducted numerical simulation and model verification
 
 ### SELECTED AWARDS AND HONORS
+- Peking University Academic Scholarship 2019
 - Peking University Graduate Scholarship 2019
 - Peking University Graduate Scholarship 2018
 - Peking University Guanghua School of Management Excellent Teaching Assistant Award 2018
@@ -89,16 +101,18 @@ Guo Xu, Yujing Gao, Cuizhen Niu, and Shumei Zhang. "
 
 ### ADDITIONAL INFORMATION
 - **Additional Professional and Extracurricular Experiences**
-  - TA experience: Statistical Culture and Practice (Teacher: Prof. Miao (Wang Miao))  
+  - TA experience: Statistical Culture and Practice (Teacher: Prof. Miao (Wang Miao))
+                   Statistical Culture and Practice (Teacher: Prof. Wang Miao)  
+                   Regression Analysis in Management Research (Teacher: Prof. Chenxu Li)
+
   - Assisted in organizing book ‘Multivariate statistical analysis’ (Unpublished, Author: Prof. Shumei Zhang, Beijing Normal University, School of Statistics)
 - **Interests**
   - Missing data analysis
-  - Causal inference
-  - Mediation analysis
+  - Causal inference (Mediation analysis)
   - High-dimensional statistics
+  - Nonparametric statistics
   - To be continued
 - **Computer and Language Skills**
-   - Proficiency in R, Tex, SAS
-   - Capable of Matlab, Python, Stata
-   - TOEFL: 102 (Jan., 2018)
-   - GRE: 324+3.5 (July, 2019)
+   - Proficiency in R, Tex, SAS; Capable of Matlab, Python, Stata
+   - TOEFL Best Score: 110 (W:30, L:29, S:25, W:26)
+   - GRE: 324 + 3.5 (Verbal: 155, Quant: 169, Writing: 3.5)  (July, 2019)
